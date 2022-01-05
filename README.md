@@ -1,3 +1,8 @@
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/appbas)](https://github.com/appbas)
+![](https://komarev.com/ghpvc/?username=appbas&color=blueviolet)
+
+##
+
 <div align="center">
   <a href="https://github.com/appbas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=appbas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
