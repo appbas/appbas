@@ -1,8 +1,3 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/appbas)](https://github.com/appbas)
-![](https://komarev.com/ghpvc/?username=appbas&color=blueviolet)
-
-##
-
 <div align="center">
   <a href="https://github.com/appbas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=appbas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,3 +22,7 @@
   <a href = "mailto:bruno.sidf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-appbas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+   
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/appbas)](https://github.com/appbas)
+![](https://komarev.com/ghpvc/?username=appbas&color=blueviolet)
+
