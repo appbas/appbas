@@ -23,6 +23,6 @@
   <a href="https://www.linkedin.com/in/bruno-appbas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
    
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/appbas)](https://github.com/appbas)
-![](https://komarev.com/ghpvc/?username=appbas&color=blueviolet)
+  [![Github Badge](https://github-readme-stats.vercel.app/api?username=appbas&show_icons=true&theme=github_dark)](https://github.com/appbas)
+![](https://komarev.com/ghpvc/?username=appbas&color=github_dark)
 
